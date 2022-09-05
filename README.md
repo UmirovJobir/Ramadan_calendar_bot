@@ -1,1 +1,1 @@
-# Ramadan calendar bot to show time of sunrise and Maghrib
+# Ramadan calendar bot to show time of Sunrise, Maghrib and their dua
