@@ -1,1 +1,1 @@
-# Ramadan_calendar_bot
+# Ramadan calendar bot to show time of sunrise and Maghrib
